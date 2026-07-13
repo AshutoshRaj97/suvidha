@@ -112,8 +112,11 @@ function AgentCore() {
           <p className="text-sm text-gray-400">जोड़ रहे हैं...</p>
         ) : (
           <p className="text-sm text-gray-500">
-            बात करने के लिए माइक बटन दबाएं
-            <span className="block text-xs mt-1">Press the mic to start talking</span>
+            बात करें · பேசுங்கள் · మాట్లాడండి · ಮಾತನಾಡಿ
+            <span className="block text-xs mt-1 text-gray-600">
+              বলুন · बोला · സംസാരിക്കൂ · બોલો · Speak
+            </span>
+            <span className="block text-xs mt-1">Press the mic to start in your language</span>
           </p>
         )}
       </div>

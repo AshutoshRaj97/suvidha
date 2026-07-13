@@ -74,7 +74,7 @@ export default function Home() {
       <section className="flex flex-col items-center text-center pt-14 pb-10 px-4">
         <div className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-500/20 rounded-full px-4 py-1.5 text-xs text-orange-400 mb-6">
           <span className="w-1.5 h-1.5 rounded-full bg-orange-400 animate-pulse" />
-          Voice-first · Hindi &amp; English · Free
+          Voice-first · 9 Indian Languages · Free
         </div>
 
         <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-3">
@@ -85,8 +85,9 @@ export default function Home() {
           जानें
         </h1>
         <p className="text-gray-400 max-w-lg text-base sm:text-lg mt-2">
-          Tell Suvidha about yourself in Hindi or English — she&apos;ll find every
-          government scheme you qualify for and explain how to apply.
+          Speak to Suvidha in your language — Hindi, Tamil, Telugu, Bengali, and
+          more. She&apos;ll find every government scheme you qualify for and
+          explain how to apply.
         </p>
       </section>
 

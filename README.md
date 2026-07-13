@@ -18,7 +18,7 @@ Users talk to Suvidha in their language. She asks a few questions about their st
 
 ## Languages supported
 
-Hindi/Hinglish · Tamil · Telugu · Kannada · Bengali · Marathi · Malayalam · Gujarati · Punjabi · Odia · English
+Hindi/Hinglish · Tamil · Telugu · Kannada · Bengali · Marathi · Malayalam · Gujarati · English
 
 ## Run locally
 
