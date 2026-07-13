@@ -1,0 +1,282 @@
+NATIONAL GOVERNMENT WELFARE SCHEMES - INDIA
+Central Government schemes available to all eligible Indian citizens regardless of state.
+
+=== FINANCIAL INCLUSION ===
+
+PM Jan Dhan Yojana (PMJDY)
+- What: Free zero-balance bank account with RuPay debit card
+- Benefits: Free accident insurance of Rs 2 lakh; overdraft up to Rs 10,000 after 6 months of active use (women get priority for overdraft); free mobile banking
+- Eligibility: Any Indian citizen aged 10 or above; no minimum balance required
+- Documents needed: Aadhaar card (primary); if no Aadhaar, voter ID or NREGA job card
+- Where to apply: Any bank branch or Business Correspondent (BC) agent
+- Why important: Foundation scheme — almost every other scheme requires a bank account linked to Aadhaar
+- Portal: pmjdy.gov.in
+
+=== FARMERS ===
+
+PM Kisan Samman Nidhi (PM-KISAN)
+- What: Direct income support of Rs 6,000 per year to farmer families
+- Payment: 3 installments of Rs 2,000 each (typically April, August, December)
+- Eligibility: All farmer families who own cultivable land (small, marginal, and large farmers). Excludes: institutional landholders, farmer families holding constitutional posts, serving/retired government employees (with some exceptions), income taxpayers
+- Documents: Aadhaar card, land ownership records (Khatoni/7-12 extract), bank account linked to Aadhaar
+- Where to apply: pmkisan.gov.in or nearest Common Service Centre (CSC) or Gram Panchayat
+- Check status: pmkisan.gov.in → Beneficiary Status
+
+PM Kisan Maan Dhan Yojana (PM-KMY) — Farmer Pension
+- What: Guaranteed pension of Rs 3,000 per month after age 60
+- Eligibility: Small and marginal farmers with up to 2 hectares of cultivable land; must be aged 18–40 at time of enrollment
+- Contribution: Monthly premium ranges Rs 55–200 depending on age at enrollment; government matches your contribution
+- Documents: Aadhaar, bank account, land records
+- Where to apply: Nearest CSC (Common Service Centre)
+- Portal: maandhan.in
+
+PM Fasal Bima Yojana (PMFBY) — Crop Insurance
+- What: Crop insurance against natural calamity losses (drought, flood, hailstorm, pest attack, etc.)
+- Premium: Very low — 2% of sum insured for Kharif crops, 1.5% for Rabi crops, 5% for horticulture/commercial crops; government pays the rest
+- Eligibility: All farmers (loanee and non-loanee) growing notified crops in notified areas
+- Claim: Within 72 hours of crop loss — report to insurer, bank, or agriculture department
+- Documents: Land records, bank account, Aadhaar, sowing certificate
+- Where to apply: Nearest bank, CSC, or insurance company before sowing season
+- Portal: pmfby.gov.in
+
+Kisan Credit Card (KCC)
+- What: Easy working capital loans for farmers at subsidized interest rate of 4% per annum (after interest subvention)
+- Limit: Based on landholding and crop; typically covers crop cultivation cost, post-harvest expenses, maintenance of farm assets
+- Eligibility: Farmers, sharecroppers, tenant farmers, SHG members
+- Documents: Land records, Aadhaar, passport photo
+- Where to apply: Any nationalized bank, cooperative bank, or regional rural bank (RRB)
+
+=== HEALTH ===
+
+Ayushman Bharat PM-JAY (Pradhan Mantri Jan Arogya Yojana)
+- What: Free health insurance of Rs 5 lakh per year per family for secondary and tertiary hospitalization
+- Coverage: 1,949+ treatment packages including surgery, chemotherapy, dialysis, ICU, etc. Covers pre-existing diseases from day one.
+- IMPORTANT UPDATE (October 2024): ALL senior citizens aged 70 and above now qualify automatically for Rs 5 lakh coverage, regardless of income or ration card status
+- Primary eligibility: Families listed in SECC (Socio-Economic Caste Census) 2011 database; BPL ration card holders
+- Where treated: Any empanelled government or private hospital (look for "Ayushman Bharat" board)
+- How to check eligibility: pmjay.gov.in → Am I Eligible, or call 14555
+- Documents: Aadhaar card; no physical card needed — verification done digitally at hospital
+- Portal: pmjay.gov.in; Helpline: 14555
+
+Ayushman Arogya Mandir (Health and Wellness Centres)
+- What: Upgraded sub-health centres and primary health centres providing free comprehensive primary healthcare
+- Services: OPD, basic diagnostics, free medicines for 12 disease categories including diabetes, hypertension, mental health, ENT, eye care, dental, maternal and child health
+- Who: All citizens — no income limit
+- Where: Nearest Ayushman Arogya Mandir (look for health and wellness centre in your village/ward)
+
+=== HOUSING ===
+
+PM Awas Yojana Gramin (PMAY-G) — Rural Housing
+- What: Financial assistance to build a pucca (permanent) house
+- Amount: Rs 1.20 lakh in plains; Rs 1.30 lakh in hilly/difficult areas; Rs 1.50 lakh in North East and UTs
+- Additional: Rs 12,000 for toilet construction under Swachh Bharat Mission; Rs 18,000 for MGNREGS labor wages for construction; Total effective benefit ~Rs 1.5–1.8 lakh
+- Eligibility: Rural BPL families without pucca house or with kutcha/damaged house; SECC 2011 database (priority to SC/ST, manual scavengers, persons with disability, minorities)
+- Where to apply: Gram Panchayat (automatic selection from SECC list) or Block Development Office
+- Portal: pmayg.nic.in
+
+PM Awas Yojana Urban 2.0 (PMAY-U 2.0) — Urban Housing
+- What: Housing assistance for urban EWS, LIG, and MIG families. Launched September 2024, replaces PMAY-U 1.0 and the old CLSS (Credit Linked Subsidy Scheme).
+- Interest Subsidy Scheme (ISS) — the main benefit: 4% interest subsidy on home loan of up to Rs 8 lakh → maximum subsidy of Rs 1.80 lakh (NPV Rs 1.50 lakh at 8.5% discount rate). Subsidy is released in 5 equal yearly instalments directly to the loan account.
+- Who qualifies: EWS (income up to Rs 3 lakh/year), LIG (Rs 3–6 lakh/year), MIG (Rs 6–9 lakh/year). All three categories get the same Rs 1.80 lakh subsidy.
+- Additional components: Beneficiary-Led Construction (BLC) — central assistance to build on own land; Affordable Housing in Partnership (AHP) — affordable units with private/govt developers; Affordable Rental Housing for migrant workers.
+- Priority: Women, SC/ST, OBC, minorities, differently abled persons, single women, widows
+- Eligibility: Must not own a pucca house anywhere in India; first-time home buyer; Aadhaar linked
+- Where to apply: pmay-urban.gov.in or any bank or housing finance company
+- Portal: pmay-urban.gov.in; Helpline: 1800-11-6163
+
+=== WOMEN AND GIRLS ===
+
+Sukanya Samriddhi Yojana (SSY)
+- What: High-interest savings scheme for girl child education and marriage expenses
+- Interest rate: 8.2% per annum (one of the highest guaranteed returns in India), compounded annually, tax-free
+- Minimum deposit: Rs 250 per year; maximum Rs 1.5 lakh per year
+- Maturity: Account matures when girl turns 21 (or on marriage after age 18)
+- Premature withdrawal: 50% allowed after girl turns 18, for education
+- Tax benefit: Rs 1.5 lakh deposit exempt under Section 80C; interest and maturity amount tax-free
+- Eligibility: Girl child below 10 years; max 2 accounts per family (exception for twins/triplets)
+- Where to open: Any post office or authorized bank (SBI, PNB, Bank of Baroda, etc.)
+
+PM Matru Vandana Yojana (PMMVY) — Maternity Benefit
+- What: Cash benefit for pregnant and lactating women
+- Amount for first child: Rs 5,000 in 2 installments (Rs 3,000 on early pregnancy registration + ANC check-up; Rs 2,000 after child birth and immunization)
+- Additional for second child (if girl): Rs 6,000 in one installment — total benefit up to Rs 11,000 if second child is a girl
+- Eligibility: All pregnant and lactating women (first and second birth only); except government employees (covered under separate maternity benefit)
+- Documents: MCP card (Mother and Child Protection card), Aadhaar, bank account, proof of pregnancy (from govt health facility)
+- Where to apply: Nearest Anganwadi Centre or health sub-centre
+- Portal: pmmvy.wcd.gov.in; Helpline: 7998799804
+
+Janani Suraksha Yojana (JSY) — Safe Motherhood
+- What: Cash incentive to encourage institutional (hospital) delivery
+- Amount (High Performing States — UP, Bihar, MP, Rajasthan, Jharkhand, Odisha, Chhattisgarh, Uttarakhand, Assam, J&K): Rural Rs 1,400 + ASHA incentive Rs 600; Urban Rs 1,000 + ASHA Rs 400
+- Amount (Low Performing States / other states): Rural Rs 700; Urban Rs 600
+- Eligibility: BPL pregnant women aged 19 and above; valid for only first 2 live births; institutional delivery mandatory (government or accredited private hospital)
+- Where to apply: At the time of delivery at government hospital; ASHA worker helps register
+
+Beti Bachao Beti Padhao
+- What: Initiative to improve child sex ratio and ensure education of girl child; delivered through convergence of various existing schemes
+- Direct benefit: Sukanya Samriddhi Yojana linked; schools get improvements; ASHA workers get incentives for girl births
+- Focus districts: 640+ districts across India; extra attention in districts with low sex ratio
+
+=== EMPLOYMENT AND LIVELIHOODS ===
+
+MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme)
+- What: Legal guarantee of 100 days of paid employment per year to every rural household
+- Wage: State-specific (revised April 2025, FY 2025-26 rates): UP Rs 252/day, Bihar Rs 255/day, Rajasthan Rs 281/day, Maharashtra Rs 312/day, Tamil Nadu Rs 336/day, Haryana Rs 400/day. Payment within 15 days, directly to bank account
+- Work: Earth work, construction (roads, ponds, schools, Anganwadis), plantation, drought-proofing
+- Rights: If work not provided within 15 days of application, entitled to unemployment allowance
+- Eligibility: Any rural household member aged 18+ willing to do unskilled manual work
+- Documents: NREGA job card (apply at Gram Panchayat with Aadhaar and photo); job card is free
+- Where to apply: Gram Panchayat
+- Portal: nrega.nic.in; check your work history and payment status online
+
+Pradhan Mantri Kaushal Vikas Yojana (PMKVY) — Skill Training
+- What: Free short-term skill training with recognized certification; placement support
+- Duration: 3–6 months typically
+- Sectors: 37+ sectors including construction, retail, healthcare, IT, beauty, textile, hospitality, automobile
+- Stipend: Rs 500–1,500 per month during training; post-assessment certificate recognized by industry
+- Eligibility: Indians aged 15–45; school dropouts, unemployed youth, and those seeking better skills
+- Where: Nearest PMKVY training centre (check pmkvyofficial.org)
+- Portal: pmkvyofficial.org; Helpline: 88000-55555
+
+PM SVANidhi — Street Vendor Credit
+- What: Micro-credit for urban street vendors in 3 stages
+- Amounts: First loan Rs 15,000 → Second loan Rs 25,000 → Third loan Rs 50,000 (enhanced August 2025; scheme extended to March 2030)
+- Interest subsidy: 7% per annum on timely repayment
+- Digital incentive: Cashback of Rs 100–1,200 per year for digital transactions
+- Eligibility: Urban street vendors with Certificate of Vending or Letter of Recommendation from ULB; identified vendors in survey
+- Where to apply: Nearest Urban Local Body (municipality/nagar panchayat) office or PM SVANidhi app
+- Portal: pmsvanidhi.mohua.gov.in; Helpline: 1800-11-1979
+
+=== SMALL BUSINESS AND ENTREPRENEURSHIP ===
+
+PM Mudra Yojana (PMMY)
+- What: Collateral-free loans for non-farm micro and small businesses
+- Three categories:
+  * Shishu: Loans up to Rs 50,000 (for new/very small businesses)
+  * Kishor: Rs 50,001 to Rs 5 lakh (for established businesses needing growth capital)
+  * Tarun: Rs 5 lakh to Rs 10 lakh (for well-established businesses)
+  * NEW: Tarun Plus category — Rs 10–20 lakh for Tarun graduates with clean repayment history
+- Interest: Competitive market rate; typically 10–12% per annum; no processing fee for Shishu
+- Eligibility: Any non-corporate, non-farm micro and small enterprise — shops, traders, vendors, artisans, service providers, manufacturers; proprietorships, partnerships, etc.
+- Documents: Aadhaar, PAN, business proof, bank statement, 2 passport photos
+- Where to apply: Any bank, MFI, NBFC, or mudra.org.in
+
+PM Employment Generation Programme (PMEGP)
+- What: Subsidy on project loan for new business setup (manufacturing or service)
+- Project cost limits: Up to Rs 50 lakh for manufacturing; up to Rs 20 lakh for service/trade
+- Subsidy rates:
+  * General category: 15% (urban), 25% (rural)
+  * SC/ST/OBC/Women/Minorities/Persons with disability/Ex-servicemen: 25% (urban), 35% (rural)
+- Own contribution: Only 5–10% of project cost
+- Eligibility: Any individual above 18; VIII pass for projects above Rs 10 lakh; only new units (no expansion)
+- Where to apply: khadi.gov.in/pmegp.php or District Industries Centre (DIC) or KVIC office
+
+Stand Up India
+- What: Bank loans for starting a new greenfield enterprise in manufacturing, services, or trading
+- Loan amount: Rs 10 lakh to Rs 1 crore
+- Repayment: Up to 7 years; moratorium period up to 18 months
+- Eligibility: SC/ST entrepreneurs (men and women); OR women entrepreneurs of any caste; must own at least 51% of business; only for new (greenfield) ventures
+- Documents: Business plan, Aadhaar, PAN, caste certificate if SC/ST, address proof
+- Where to apply: Any scheduled commercial bank (SCB); standupmitra.in portal
+
+=== INSURANCE AND PENSION (FOR ALL) ===
+
+PM Jeevan Jyoti Bima Yojana (PMJJBY) — Life Insurance
+- What: Renewable term life insurance of Rs 2 lakh on death (any cause)
+- Premium: Rs 436 per year (automatically debited from bank account in June each year)
+- Eligibility: Bank account holders aged 18–50; must have Aadhaar-linked bank account
+- Renewal: Annual; auto-renews if balance available
+- Claim: Nominee submits claim at bank within 30 days of death
+- Where to enroll: Any bank branch or online banking
+
+PM Suraksha Bima Yojana (PMSBY) — Accident Insurance
+- What: Accidental death and permanent disability insurance of Rs 2 lakh (Rs 1 lakh for partial disability)
+- Premium: Rs 20 per year (cheapest insurance in India — just Rs 20!)
+- Eligibility: Bank account holders aged 18–70; Aadhaar-linked bank account
+- Covers: Death or disability due to accident only (not illness)
+- Where to enroll: Any bank branch or net banking
+
+Atal Pension Yojana (APY)
+- What: Guaranteed pension of Rs 1,000 / 2,000 / 3,000 / 4,000 / 5,000 per month after age 60 (choose your pension amount)
+- Government co-contribution: 50% of subscriber's contribution (max Rs 1,000/year) for first 5 years, for those who enrolled before March 2016 and are not income tax payers
+- Monthly contribution: Depends on age at enrollment and chosen pension amount; ranges from Rs 42 to Rs 1,454/month
+- Eligibility: Indian citizens aged 18–40; must have a savings bank account; should not be an income taxpayer (for government co-contribution)
+- On death: Pension continues to spouse; then corpus returned to nominee
+- Where to enroll: Any bank or post office with savings account
+
+=== ELDERLY ===
+
+Indira Gandhi National Old Age Pension Scheme (IGNOAPS)
+- What: Monthly pension for destitute elderly
+- Amount: Rs 200/month for ages 60–79; Rs 500/month for ages 80 and above (central share; states add top-up — actual amount can be much higher)
+- State examples: Rajasthan total Rs 750–1,000/month; Delhi Rs 2,000/month; Tamil Nadu Rs 1,000/month
+- Eligibility: BPL (Below Poverty Line) elderly; aged 60 or above; no other source of regular income; SECC listed preferred
+- Documents: Aadhaar, age proof, BPL ration card or SECC registration, bank account, 2 photos
+- Where to apply: Gram Panchayat (rural) or Ward office/Municipal office (urban) or Block Development Office
+
+Ayushman Bharat for Senior Citizens (70+)
+- As of October 2024: All Indians aged 70+ get Rs 5 lakh free health insurance per year, regardless of income. No need to be BPL. Just need Aadhaar verification at hospital.
+
+=== EDUCATION ===
+
+PM Vidya Lakshmi — Education Loans
+- What: Single portal to apply to multiple banks for education loans
+- Loans: Up to Rs 4 lakh without collateral; above Rs 4 lakh requires collateral; some categories get interest subsidy
+- Central Sector Interest Subsidy (CSIS): Full interest subsidy during moratorium for EWS families (income below Rs 4.5 lakh/year) for technical/professional courses
+- Where: vidyalakshmi.co.in
+
+National Scholarship Portal (NSP)
+- What: Central portal for 50+ national scholarships — merit, means-tested, for minorities, OBC, SC/ST, differently abled
+- Key schemes: Post-Matric Scholarship for SC/ST/OBC; National Means-Cum-Merit Scholarship (NMMSS); Begum Hazrat Mahal National Scholarship; Maulana Azad National Fellowship
+- Where to apply: scholarships.gov.in
+- When: Scholarships typically open August–October each year
+
+=== DISABILITY ===
+
+Unique Disability ID (UDID) — Divyangjan Card
+- What: Universal disability card giving access to all disability-related benefits and discounts (rail travel, education, employment reservation, tax benefits)
+- Eligibility: Persons with 40%+ disability (physical, visual, hearing, intellectual, psychiatric, etc.)
+- Where: swavlambancard.gov.in or nearest District Disability Rehabilitation Centre (DDRC)
+
+Deendayal Disabled Rehabilitation Scheme (DDRS)
+- What: Free rehabilitation, assistive devices, and skills training for persons with disabilities
+- Provided through: NGOs funded by Ministry of Social Justice; District Disability Centres
+- Where: Nearest DDRC or Artificial Limb Manufacturing Corporation (ALIMCO) centre
+
+=== UTILITIES ===
+
+Pradhan Mantri Ujjwala Yojana (PMUY) — Free LPG
+- What: Free LPG connection (one cylinder + pressure regulator + stove) for BPL women
+- Also: Deposit-free refill loan for first cylinder for those who cannot afford
+- Eligibility: Women from BPL, SC/ST, PM Awas Yojana beneficiary, Antyodaya Anna Yojana, forest dwellers, most backward classes, tea garden workers, river islands; must be 18+; family should not already have LPG connection
+- Documents: BPL ration card or Antyodaya card, Aadhaar, bank account, address proof
+- Where to apply: Nearest LPG gas agency (HP Gas, Bharat Gas, Indane)
+- Portal: pmuy.gov.in
+
+PM Kusum Yojana — Solar for Farmers
+- What: Solar pumps and solar power plants for farmers
+- Component A: 10,000 MW solar plants on barren land (farmers get lease income Rs 60,000–1 lakh/year per 2 hectares)
+- Component B: Standalone solar agriculture pumps (60% subsidy — 30% central, 30% state; farmer pays only 10%; 60% bank loan covers rest)
+- Component C: Solar panels on existing grid-connected pump sets
+- Eligibility: Any farmer with agricultural land
+- Where to apply: State nodal agency for renewable energy
+
+=== HOW TO APPLY IN GENERAL ===
+
+Common Service Centre (CSC):
+- One-stop shop to apply for most central government schemes
+- 5+ lakh CSCs across India — at least one in each panchayat
+- Services: Digital applications for PM Kisan, Mudra, Jan Dhan, PMJJBY, PMSBY, APY, and more
+- Find nearest CSC: locator.csccloud.in
+
+Helpline numbers:
+- PM-KISAN: 155261 / 1800115526
+- Ayushman Bharat: 14555
+- PM SVANidhi: 1800-11-1979
+- PMAY Urban: 1800-11-6163
+- MGNREGS: 1800-11-5526
+- General welfare: 1800-11-0001
+
+Jan Samarth Portal (jansamarth.in):
+- Single portal for 13+ credit-linked government schemes — Mudra, Education Loan, Kisan Credit Card, Stand Up India, PMEGP, etc.
+- Apply online from mobile or CSC
