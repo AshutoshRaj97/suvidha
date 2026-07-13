@@ -1,65 +1,130 @@
-import Image from "next/image";
+import DynamicVoiceAgent from "./components/DynamicVoiceAgent";
+
+const SCHEMES = [
+  {
+    name: "PM Kisan",
+    hindi: "पीएम किसान",
+    desc: "₹6,000/year for farmers",
+    color: "from-green-900/40 to-green-800/20",
+    border: "border-green-700/30",
+    badge: "Farmer",
+  },
+  {
+    name: "Ayushman Bharat",
+    hindi: "आयुष्मान भारत",
+    desc: "₹5 lakh health cover/year",
+    color: "from-blue-900/40 to-blue-800/20",
+    border: "border-blue-700/30",
+    badge: "Health",
+  },
+  {
+    name: "PM Awas Yojana",
+    hindi: "पीएम आवास",
+    desc: "Subsidy to build a pucca house",
+    color: "from-purple-900/40 to-purple-800/20",
+    border: "border-purple-700/30",
+    badge: "Housing",
+  },
+  {
+    name: "PM Mudra Yojana",
+    hindi: "मुद्रा योजना",
+    desc: "Loans up to ₹10L, no collateral",
+    color: "from-orange-900/40 to-orange-800/20",
+    border: "border-orange-700/30",
+    badge: "Business",
+  },
+  {
+    name: "Ujjwala Yojana",
+    hindi: "उज्ज्वला योजना",
+    desc: "Free LPG for BPL women",
+    color: "from-pink-900/40 to-pink-800/20",
+    border: "border-pink-700/30",
+    badge: "Women",
+  },
+  {
+    name: "MGNREGS",
+    hindi: "मनरेगा",
+    desc: "100 days guaranteed employment",
+    color: "from-yellow-900/40 to-yellow-800/20",
+    border: "border-yellow-700/30",
+    badge: "Employment",
+  },
+];
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="min-h-screen flex flex-col">
+      {/* Nav */}
+      <nav className="flex items-center justify-between px-6 py-4 border-b border-white/5">
+        <div className="flex items-center gap-3">
+          <div className="w-8 h-8 rounded-full bg-gradient-to-br from-orange-500 to-green-600 flex items-center justify-center text-xs font-bold">
+            स
+          </div>
+          <span className="font-semibold text-white">
+            Suvidha <span className="text-orange-400">•</span>{" "}
+            <span className="text-gray-400 font-normal">सुविधा</span>
+          </span>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <span className="text-xs text-gray-600 hidden sm:block">
+          Powered by ElevenLabs Conversational AI
+        </span>
+      </nav>
+
+      {/* Hero */}
+      <section className="flex flex-col items-center text-center pt-14 pb-10 px-4">
+        <div className="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-500/20 rounded-full px-4 py-1.5 text-xs text-orange-400 mb-6">
+          <span className="w-1.5 h-1.5 rounded-full bg-orange-400 animate-pulse" />
+          Voice-first · Hindi &amp; English · Free
         </div>
-      </main>
-    </div>
+
+        <h1 className="text-4xl sm:text-5xl font-bold tracking-tight mb-3">
+          अपनी{" "}
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-orange-600">
+            सरकारी योजना
+          </span>{" "}
+          जानें
+        </h1>
+        <p className="text-gray-400 max-w-lg text-base sm:text-lg mt-2">
+          Tell Suvidha about yourself in Hindi or English — she&apos;ll find every
+          government scheme you qualify for and explain how to apply.
+        </p>
+      </section>
+
+      {/* Voice Agent */}
+      <section className="flex-1 flex flex-col items-center justify-center py-6 px-4">
+        <DynamicVoiceAgent />
+      </section>
+
+      {/* Scheme cards */}
+      <section className="py-14 px-4 border-t border-white/5">
+        <p className="text-center text-xs text-gray-600 uppercase tracking-widest mb-8">
+          Schemes Suvidha knows about
+        </p>
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 max-w-3xl mx-auto">
+          {SCHEMES.map((s) => (
+            <div
+              key={s.name}
+              className={`bg-gradient-to-br ${s.color} border ${s.border} rounded-2xl p-4`}
+            >
+              <span className="text-[10px] font-semibold uppercase tracking-wider text-gray-500">
+                {s.badge}
+              </span>
+              <p className="text-sm font-semibold text-white mt-1">{s.name}</p>
+              <p className="text-xs text-gray-400">{s.hindi}</p>
+              <p className="text-xs text-gray-300 mt-2">{s.desc}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="text-center py-6 border-t border-white/5">
+        <p className="text-xs text-gray-700">
+          Built with{" "}
+          <span className="text-gray-500">ElevenLabs Conversational AI</span>
+          {" "}· A proof-of-concept for voice-first civic access in India
+        </p>
+      </footer>
+    </main>
   );
 }
